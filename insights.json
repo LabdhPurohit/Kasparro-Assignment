@@ -1,0 +1,66 @@
+{
+  "numeric": {
+    "top_categories_installs": {
+      "COMMUNICATION": 10661710000.0,
+      "ENTERTAINMENT": 1745000000.0,
+      "BOOKS_AND_REFERENCE": 1335460000.0,
+      "BUSINESS": 506010000.0,
+      "EDUCATION": 352952000.0
+    },
+    "top_categories_revenue": {
+      "EDUCATION": 2403980.0,
+      "BUSINESS": 998000.0,
+      "COMMUNICATION": 399000.0,
+      "DATING": 48461.5,
+      "ART_AND_DESIGN": 0.0
+    },
+    "price_vs_downloads": {
+      "avg_free_installs": 20888758.040502794,
+      "avg_paid_installs": 70257.69230769231
+    },
+    "rating_installs_corr": 0.0025536778371076365
+  },
+  "summaries": [
+    "### Top App Category by Installs\nCommunication apps dominate with over 10.6 billion installs, underscoring strong consumer demand for connectivity tools like messaging and social platforms. This category outpaces others, signaling opportunities in digital interaction features.",
+    "**Key Insight:** The EDUCATION category drives the highest revenue at $2,403,980, outpacing all others\u2014indicating a prime opportunity for targeted investment and expansion to sustain growth.",
+    "### Key Insight: Free Apps Dominate Install Volume\nFree apps achieve ~297x more installs on average (20.9M vs. 70K for paid), highlighting the need to prioritize free or freemium models to drive user acquisition and scale, with monetization via in-app purchases or ads.",
+    "**Key Insight:** A 0.00 correlation between app ratings and installs shows no direct link\u2014higher ratings aren't driving more downloads. Focus on marketing, visibility, and user acquisition to boost installs independently of perceived quality."
+  ],
+  "charts": [
+    {
+      "type": "bar",
+      "title": "Top Categories by Installs",
+      "data": {
+        "COMMUNICATION": 10661710000.0,
+        "ENTERTAINMENT": 1745000000.0,
+        "BOOKS_AND_REFERENCE": 1335460000.0,
+        "BUSINESS": 506010000.0,
+        "EDUCATION": 352952000.0
+      }
+    },
+    {
+      "type": "bar",
+      "title": "Top Categories by Revenue",
+      "data": {
+        "EDUCATION": 2403980.0,
+        "BUSINESS": 998000.0,
+        "COMMUNICATION": 399000.0,
+        "DATING": 48461.5,
+        "ART_AND_DESIGN": 0.0
+      }
+    },
+    {
+      "type": "comparison",
+      "title": "Free vs Paid Installs",
+      "data": {
+        "Free": 20888758.040502794,
+        "Paid": 70257.69230769231
+      }
+    },
+    {
+      "type": "scatter",
+      "title": "Rating vs Installs Correlation",
+      "correlation": 0.0025536778371076365
+    }
+  ]
+}

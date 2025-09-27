@@ -1,0 +1,12 @@
+{
+  "ad_headlines": [
+    "Transform Your Space & Self",
+    "Glow Up, Inside & Out",
+    "Your Wellness, Delivered"
+  ],
+  "meta_descriptions": [
+    "Discover premium skin care, fitness essentials & home decor that transform your daily routine. Join thousands of satisfied customers for a better lifestyle.",
+    "Elevate your wellness journey with our curated collection of self-care must-haves. Free shipping on orders over $50. Join our community today!"
+  ],
+  "product_detail": "Experience the perfect blend of form and function with our bestselling wellness essentials. From advanced skincare formulas to ergonomic fitness gear and sophisticated home decor pieces, each product is thoughtfully designed to enhance your daily routine. With over 65% of our customers coming back for more, join thousands who've made our premium collection part of their lifestyle transformation. Every purchase is backed by our satisfaction guarantee, making self-improvement completely risk-free."
+}

@@ -1,0 +1,163 @@
+{
+  "median_cac": 2.412357657048659,
+  "median_roas": 4.071292985984913,
+  "median_repeat_rate": 0.6522781774580335,
+  "top_roas_campaigns": [
+    {
+      "campaign_id": "CAMP_048",
+      "roas": 44.62055825473945,
+      "spend_usd": 209.94,
+      "revenue_usd": 9367.64
+    },
+    {
+      "campaign_id": "CAMP_044",
+      "roas": 28.47745294592896,
+      "spend_usd": 334.19,
+      "revenue_usd": 9516.88
+    },
+    {
+      "campaign_id": "CAMP_005",
+      "roas": 25.69955220196749,
+      "spend_usd": 283.61,
+      "revenue_usd": 7288.65
+    },
+    {
+      "campaign_id": "CAMP_016",
+      "roas": 21.908952272023257,
+      "spend_usd": 419.67,
+      "revenue_usd": 9194.53
+    },
+    {
+      "campaign_id": "CAMP_042",
+      "roas": 14.708922981968875,
+      "spend_usd": 453.66,
+      "revenue_usd": 6672.85
+    },
+    {
+      "campaign_id": "CAMP_008",
+      "roas": 14.56510769812987,
+      "spend_usd": 317.09,
+      "revenue_usd": 4618.45
+    },
+    {
+      "campaign_id": "CAMP_035",
+      "roas": 12.481510711694396,
+      "spend_usd": 785.59,
+      "revenue_usd": 9805.35
+    },
+    {
+      "campaign_id": "CAMP_034",
+      "roas": 12.289648555488432,
+      "spend_usd": 281.41,
+      "revenue_usd": 3458.43
+    },
+    {
+      "campaign_id": "CAMP_013",
+      "roas": 12.157712673957585,
+      "spend_usd": 375.81,
+      "revenue_usd": 4568.99
+    },
+    {
+      "campaign_id": "CAMP_018",
+      "roas": 10.607025582283315,
+      "spend_usd": 261.9,
+      "revenue_usd": 2777.98
+    }
+  ],
+  "best_cac_campaigns": [
+    {
+      "campaign_id": "CAMP_005",
+      "cac": 0.3761405835543767,
+      "spend_usd": 283.61
+    },
+    {
+      "campaign_id": "CAMP_044",
+      "cac": 0.6109506398537478,
+      "spend_usd": 334.19
+    },
+    {
+      "campaign_id": "CAMP_042",
+      "cac": 0.6565267727930536,
+      "spend_usd": 453.66
+    },
+    {
+      "campaign_id": "CAMP_034",
+      "cac": 0.7124303797468355,
+      "spend_usd": 281.41
+    },
+    {
+      "campaign_id": "CAMP_008",
+      "cac": 0.8857262569832401,
+      "spend_usd": 317.09
+    },
+    {
+      "campaign_id": "CAMP_025",
+      "cac": 0.9201036269430052,
+      "spend_usd": 532.74
+    },
+    {
+      "campaign_id": "CAMP_035",
+      "cac": 0.9894080604534006,
+      "spend_usd": 785.59
+    },
+    {
+      "campaign_id": "CAMP_047",
+      "cac": 1.0828932038834953,
+      "spend_usd": 557.69
+    },
+    {
+      "campaign_id": "CAMP_033",
+      "cac": 1.107755511022044,
+      "spend_usd": 552.77
+    },
+    {
+      "campaign_id": "CAMP_012",
+      "cac": 1.2147727272727271,
+      "spend_usd": 748.3
+    }
+  ],
+  "top_seo_categories": [
+    {
+      "category": "Skin Care",
+      "seo_opportunity_score": 0.98399515625,
+      "search_volume": 216472,
+      "avg_position": 26.825,
+      "seo_conv_rate": 3.46125,
+      "campaigns_count": 8
+    },
+    {
+      "category": "Fitness Gear",
+      "seo_opportunity_score": 0.793701375,
+      "search_volume": 281338,
+      "avg_position": 24.380000000000003,
+      "seo_conv_rate": 2.369,
+      "campaigns_count": 10
+    },
+    {
+      "category": "Home Decor",
+      "seo_opportunity_score": 0.7012531666666667,
+      "search_volume": 314956,
+      "avg_position": 27.0,
+      "seo_conv_rate": 2.488,
+      "campaigns_count": 10
+    },
+    {
+      "category": "Astrology Services",
+      "seo_opportunity_score": 0.5611740416666666,
+      "search_volume": 256471,
+      "avg_position": 28.97,
+      "seo_conv_rate": 2.5789999999999997,
+      "campaigns_count": 10
+    },
+    {
+      "category": "Supplements",
+      "seo_opportunity_score": 0.4324980902777778,
+      "search_volume": 297737,
+      "avg_position": 27.900000000000002,
+      "seo_conv_rate": 2.2416666666666667,
+      "campaigns_count": 12
+    }
+  ],
+  "total_campaigns": 50,
+  "generated_at_utc": "2025-09-27T09:23:26.172206Z"
+}
